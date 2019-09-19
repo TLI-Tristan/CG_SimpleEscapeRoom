@@ -1,0 +1,6 @@
+﻿  SceneAssignment02.cpp
+d:\submission\compg wip3\dm2122_practial01\source\sceneassignment02.cpp(153): warning C4305: '=': truncation from 'double' to 'float'
+d:\submission\compg wip3\dm2122_practial01\source\sceneassignment02.cpp(422): warning C4305: '=': truncation from 'double' to 'float'
+d:\submission\compg wip3\dm2122_practial01\source\sceneassignment02.cpp(436): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\submission\compg wip3\dm2122_practial01\source\sceneassignment02.cpp(456): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  DM2122_Practial01.vcxproj -> D:\Submission\compG WIP3\Debug\DM2122_Assignment01.exe
